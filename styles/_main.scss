@@ -40,12 +40,12 @@ main {
   }
   span:nth-child(2) {
     background-image: linear-gradient(90deg, #7928ca, #ff0080);
-    animation: 3.33s;
+    animation-delay: 3.33s;
 
   }
   span:nth-child(3) {
     background-image: linear-gradient(90deg, #ff4d4d, #f9cb28);
-    animation: 6.66s;
+    animation-delay: 6.66s;
   }
   .buttons {
     margin-top: 6.4rem;
